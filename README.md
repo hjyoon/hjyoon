@@ -1,24 +1,9 @@
-<img src="https://user-images.githubusercontent.com/16138767/174783401-121bc59f-0328-4348-ac4e-c1acf3c459f2.jpg" align="right" width="300px">
-
-_"If you want to live a happy life, tie it to a goal, not to people or things."_
-
 <details>
 <summary>🏫 Education</summary>
 <div markdown="1">
   
 - Yeungnam University, Master of Science in Computer Engineering
 - SSAFY 6th
-</div>
-</details>
-
-<details>
-<summary>🛠️ Major Tech</summary>
-<div markdown="1">
-  
-- React
-- TypeScript
-- Docker
-- Git
 </div>
 </details>
 
@@ -34,10 +19,17 @@ _"If you want to live a happy life, tie it to a goal, not to people or things."_
 <summary>👀 Interested in</summary>
 <div markdown="1">
   
+- Security
 - Automation
 - Decentralization
-- Gamification
-- Testing
+</div>
+</details>
+
+<details>
+<summary>👀 All about</summary>
+<div markdown="1">
+  
+- DevSecOps
 </div>
 </details>
 
